@@ -1,0 +1,22 @@
+{
+  "name": "hcf-calc",
+  "version": "1.0.0",
+  "description": "A Package to calculate the HCF of any two given numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Synic-dx/HCF-Calc.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Shinjan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Synic-dx/HCF-Calc/issues"
+  },
+  "homepage": "https://github.com/Synic-dx/HCF-Calc#readme"
+}
