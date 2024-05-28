@@ -7,7 +7,8 @@ A Package to calculate the Highest Common Factor of any two numbers.
 
 ### Usage:
 
-> const hcf = require('hfc-calc');
-> console.log(hcf(12, 16));
+> import hcfCalc from 'hcf-calc';
+>
+> console.log(hcfCalc(12, 16));
 
 This will log the HCF- 4 in this case.

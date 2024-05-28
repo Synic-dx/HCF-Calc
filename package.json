@@ -1,6 +1,6 @@
 {
   "name": "hcf-calc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Package to calculate the HCF of any two given numbers.",
   "main": "index.js",
   "scripts": {
