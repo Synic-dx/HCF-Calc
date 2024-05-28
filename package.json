@@ -11,7 +11,12 @@
     "url": "git+https://github.com/Synic-dx/HCF-Calc.git"
   },
   "keywords": [
-    "npm"
+    "npm",
+    "hcf",
+    "calculator",
+    "hcf-calculator",
+    "hcf-calc",
+    "hcf-calculation"
   ],
   "author": "Shinjan",
   "license": "MIT",
