@@ -1,8 +1,8 @@
 {
   "name": "hcf-calc",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "A Package to calculate the HCF of any two given numbers.",
-  "main": "index.js",
+  "main": "indnex.js",
   "scripts": {
     "test": "npm run test"
   },
