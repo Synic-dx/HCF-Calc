@@ -1,4 +1,4 @@
-[![NPM Version](https://img.shields.io/npm/v/hcf-calc)] (https://www.npmjs.com/package/hcf-calc) [![NPM License](https://img.shields.io/npm/l/hcf-calc)] (https://www.npmjs.com/package/hcf-calc) [![NPM Downloads](https://img.shields.io/npm/dm/hcf-calc) ] (https://www.npmjs.com/package/hcf-calc) [![NPM Total Downloads](https://img.shields.io/npm/dt/hcf-calc)] (https://www.npmjs.com/package/hcf-calc)
+[![NPM Version](https://img.shields.io/npm/v/hcf-calc)](https://www.npmjs.com/package/hcf-calc) [![NPM License](https://img.shields.io/npm/l/hcf-calc)](https://www.npmjs.com/package/hcf-calc) [![NPM Downloads](https://img.shields.io/npm/dm/hcf-calc) ](https://www.npmjs.com/package/hcf-calc) [![NPM Total Downloads](https://img.shields.io/npm/dt/hcf-calc)](https://www.npmjs.com/package/hcf-calc)
 
 # HCF-Calc
 A Package to calculate the Highest Common Factor of any two numbers.
